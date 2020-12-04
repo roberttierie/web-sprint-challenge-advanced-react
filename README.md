@@ -62,7 +62,7 @@ _Please follow the setup instructions closely so that you can get everything up 
 
 **Setting up the CodeGrade webhook**
 
-Go [here](./CodeGrade-webhook.md) to setup the CodeGrade webhook before you begin.
+Go [here](./CodeGrade-webhook.md) toasdasdasdasdasdasetup the CodeGrade webhook before you begin.
 
 **Starting the server**
 
